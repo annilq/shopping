@@ -1,6 +1,6 @@
-# shopping
+# source code about below article
 
-A new Flutter project.
+- [architecting-your-flutter-project](https://medium.com/codechai/architecting-your-flutter-project-bd04e144a8f1)
 
 ## Getting Started
 
